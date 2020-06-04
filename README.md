@@ -4,6 +4,14 @@ Image Captioning: Implementing the Neural Image Caption Generator in PyTorch.
 ## Introduction
 The repository contains a neural network, which can automatically generate captions from images. 
 
+Notebook 0 : Dataset
+
+Notebook 1 : Preliminaries
+
+Notebook 2 : Training
+
+Notebook 3 : Inference
+
 ## Network Architecture
 The solution architecture consists of:
 1. CNN encoder, which encodes the images into the embedded feature vectors:
